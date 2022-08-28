@@ -1,0 +1,1 @@
+Eventos en javascript --> Evento de carga de documento
