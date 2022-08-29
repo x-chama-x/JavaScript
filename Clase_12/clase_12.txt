@@ -1,0 +1,1 @@
+Eventos en javascript --> Temporizadores o timers
