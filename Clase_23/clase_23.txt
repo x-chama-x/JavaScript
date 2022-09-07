@@ -1,0 +1,2 @@
+Generacion de arreglos en JS
+con split() | from() | of()
